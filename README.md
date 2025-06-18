@@ -16,6 +16,7 @@
 
 - **Languages:** Java, C/C++, Python, javaScript
 - **Web:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Database:** SQL, MongoDB
 - **Tools:** Git, GitHub
 
 ---
