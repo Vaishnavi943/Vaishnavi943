@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm KUMARI VAISHNAVI 👋
 
-<!--
-**Vaishnavi943/Vaishnavi943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate Full Stack Developer | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🔭 I’m a passionate full stack developer and love building scalable web apps.
+- 🤖 AI/ML enthusiast, always exploring new trends in artificial intelligence and machine learning/Data Science.
+- 💬 I enjoy teaching, playing basketball, and staying updated with the latest in tech!
+
+---
+
+### 🛠️ Languages & Technologies
+
+- **Languages:** Java, C/C++, Python
+- **Web:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Tools:** Git, GitHub
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](YOUR_LINKEDIN_LINK_HERE)
+
+---
+
+### ⚡ Fun Facts
+
+- 🏀 I love basketball!
+- 🎓 Teaching is my passion.
+- 🤖 Always curious about AI/ML innovations.
+
+---
+
+### Reach me out
+Gmail: kumarivaishnavi179@gmail.com
+
