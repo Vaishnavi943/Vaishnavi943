@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages & Technologies
 
-- **Languages:** Java, C/C++, Python
+- **Languages:** Java, C/C++, Python, javaScript
 - **Web:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Tools:** Git, GitHub
 
