@@ -22,7 +22,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](in/kumari-vaishnavi-607071272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([in/kumari-vaishnavi-607071272](https://www.linkedin.com/in/kumari-vaishnavi-607071272/))
 
 ---
 
