@@ -118,6 +118,7 @@ I enjoy transforming ideas into AI-powered applications.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
 - LangChain
 - LangGraph
@@ -137,22 +138,14 @@ I enjoy transforming ideas into AI-powered applications.
 
 | Project | Description | Tech |
 |----------|------------|------|
-| 🤖 Multi-Agent Research System | AI agents collaborating to perform intelligent research | LangGraph, FastAPI, OpenAI |
-| ✈️ AI Travel Booking System | Multi-Agent AI Travel Planner | LangGraph, FastAPI, React |
-| 🧠 Medical AI Assistant | Healthcare AI Assistant using RAG | FastAPI, FAISS, OpenAI |
-| 🌐 Personal Portfolio | Modern Developer Portfolio | React, TailwindCSS |
+| 🤖 Multi-Agent Research System | AI agents collaborating to perform intelligent research | Langchain, FastAPI, MitralAI, Embedding, VectorDB |
+| ✈️ AI Travel Booking System | Multi-Agent AI Travel Planner | LangGraph, FastAPI, React, Groq, PostgresQL, Vercel|
+| 🧠 Medical AI Assistant | Healthcare AI Assistant using RAG | FastAPI, FAISS, Gemini, Vercel|
+| 🌐 Plant disease detection | Detect the disease in plant | CNN, Image-preproceing, Tensorflow, Streamlit |
+| 🌐 Personal Portfolio | Modern Developer Portfolio | React, TailwindCSS, Render |
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi943&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-
-</p>
-
----
 
 # 📊 GitHub Statistics
 
@@ -176,15 +169,6 @@ I enjoy transforming ideas into AI-powered applications.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi943&theme=react-dark"/>
-
-</p>
-
----
 
 # 🔥 GitHub Contribution Snake
 
@@ -209,7 +193,7 @@ I enjoy transforming ideas into AI-powered applications.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="[https://portfolio-1-ut53.onrender.com/">
+<a href="https://portfolio-1-ut53.onrender.com/">
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
 
