@@ -24,12 +24,23 @@ Building Intelligent AI Applications using LLMs, LangGraph & MERN Stack
 
 # 👩‍💻 About Me
 
-🎓 B.Tech CSE Student
+🎓 B.Tech Computer Science & Engineering Student (6th Semester)
 
-💙 Passionate about Full Stack Development, Artificial Intelligence, LLMs and Agentic AI.
+💙 Passionate about **Backend Development, Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
-🚀 I enjoy building intelligent systems that solve real-world problems.
+🚀 I enjoy building intelligent systems that solve real-world problems through scalable software and AI-powered solutions.
 
+💼 **Experience**
+
+- 🏢 **AI/ML Intern @ NathCorp**
+  - Developed a **RAG-based Medical Chatbot** using LLMs, LangChain, FastAPI, FAISS, React to provide intelligent medical assistance.
+
+- 🏢 **Machine Learning Intern @ Codec Technologies Pvt. Ltd.**
+  - Built a **Breast Cancer Classification System** using  Machine Learning techniques with Logistic Regression and Python.
+🏆 **Achievements**
+
+- 🥉 Secured **3rd Place** in the College Hackathon for building an innovative software solution.
+- 🚀 Participated in the **International Innovation Challenge (IIC) Hackathon**, collaborating on real-world problem-solving and innovation.
 
 💬 **Ask me about**
 
